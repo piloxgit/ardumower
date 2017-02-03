@@ -1,0 +1,1 @@
+/home/pilox/.platformio/packages/toolchain-atmelavr/bin/avr-g++   -g   CMakeFiles/ardumower.dir/src/main.cpp.o  -o ardumower -rdynamic 
